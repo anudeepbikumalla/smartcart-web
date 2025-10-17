@@ -42,7 +42,7 @@ It simulates core shopping workflows like product browsing, cart management, and
 ---
 
 ## 🌐 Live Demo
-🔗 [View SmartCart Store](https://anudeepbikumalla.github.io/smartcart-store/)
+https://smartcartjs.netlify.app/
 
 ---
 
@@ -50,5 +50,6 @@ It simulates core shopping workflows like product browsing, cart management, and
 SmartCart demonstrates how full e-commerce functionality can be achieved **without frameworks** — focusing purely on modular JavaScript, DOM manipulation, and clean component separation.
 
 ---
+
 
 
